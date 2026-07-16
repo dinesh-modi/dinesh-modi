@@ -21,10 +21,10 @@ Previously, I led organic growth and technical SEO at **[Course Hero](https://ww
 ## 🏆 Key Career Highlights
 
 - 🔍 Created the **[Search Everywhere Optimization](https://dineshmodi.com/framework/search-everywhere-optimization)** framework in **2023**, introducing a structured approach to improving discoverability across search engines, large language models, and AI platforms.
-- 💰 Advised **50+ small and mid-sized businesses** on growth strategy, search, and digital acquisition throughout his entrepreneurial and consulting career.
-- 🌍 Represented Nashik at the **MIT Media Lab in Cambridge, Massachusetts**, in **2014**, contributing to discussions on innovation and India's smart city initiatives alongside government officials and technology leaders.
-- 🏆 Recognized by the **NIMA IT Forum** as **"Nashik's Youngest CEO"** in **2013** for contributions to the region's technology and entrepreneurship ecosystem.
-- 📚 Created **[Weave Your Web](https://dineshmodi.com/weave-your-web)** in **2012**, a digital entrepreneurship curriculum that trained **4,500+ engineering and management students and faculty members** across **10+ universities and institutions**.
+- 💰 Consulted 50+ startups on online growth, search visibility, lead generation, and digital strategy throughout my entrepreneurial career.
+- 🌍 Represented Nashik at the **MIT Media Lab in Cambridge, Massachusetts**, in 2014, contributing to discussions on innovation and India’s smart city initiatives alongside government officials and technology leaders from India and the United States.
+- 🏆 Recognized by the **NIMA IT Forum** as **"Nashik's Youngest CEO"** in 2013 for contributions to the region's technology and entrepreneurship ecosystem.
+- 📚 Created **[Weave Your Web](https://dineshmodi.com/weave-your-web)** in 2012, a digital entrepreneurship curriculum that trained **4,500+ engineering and management students and faculty members** across **10+ universities and institutions**.
 
 <br>
 
