@@ -6,6 +6,7 @@ I currently serve as Director at **[Public](https://public.com)**, where I focus
 
 Previously, I led organic growth and technical SEO at **[Course Hero](https://www.coursehero.com)**, helping scale one of the world's largest edtech platforms to more than **1 billion annual visits** while managing **100+ million indexed pages**. Earlier, I led global digital experience and migration initiatives at **[Cummins](https://www.cummins.com)** and founded **[Innovations](https://infiniteinnovations.net)**, a digital marketing agency that served **150+ businesses** worldwide.
 
+
 ## 🚀 Current Focus
 
 - 📈 Product-led growth & organic acquisition
@@ -13,6 +14,7 @@ Previously, I led organic growth and technical SEO at **[Course Hero](https://ww
 - 🔍 Technical SEO & programmatic SEO
 - 🧠 Information retrieval & knowledge architecture
 - ⚡ Open frameworks, research & developer tools
+
 
 ## 🏆 Key Career Highlights
 
@@ -22,8 +24,9 @@ Previously, I led organic growth and technical SEO at **[Course Hero](https://ww
 - 🏆 Recognized by the **NIMA IT Forum** as **"Nashik's Youngest CEO"** in 2013 for contributions to the region's technology and entrepreneurship ecosystem.
 - 💰 Advised **50+ small and mid-sized businesses** on growth strategy, search, and digital acquisition.
 
+
 ## 🌐 Connect
 
-- 🌍 [Website](https://dineshmodi.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dineshmodi247)
-- 𝕏 [X](https://x.com/dineshmodi247)
+-  [Website](https://dineshmodi.com)
+-  [LinkedIn](https://www.linkedin.com/in/dineshmodi247)
+-  [X](https://x.com/dineshmodi247)
