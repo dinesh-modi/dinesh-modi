@@ -1,6 +1,6 @@
 # Hi, I'm Dinesh 👋
 <br>
-I'm a product leader and growth advisor with experience spanning entrepreneurship, Fortune 100 companies, and high-growth technology platforms.
+I'm a product leader and growth advisor with experience spanning entrepreneurship, Fortune 100 companies, and high-growth technology platforms.<br>
 
 I currently serve as Director at **[Public](https://public.com)**, where I focus on product-led growth, organic user acquisition, AI Search, and web attribution.
 
