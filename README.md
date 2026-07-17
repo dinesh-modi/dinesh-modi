@@ -1,7 +1,7 @@
 # Hi, I'm Dinesh 👋
 <br>
-I'm a product leader and growth advisor with experience spanning entrepreneurship, Fortune 100 companies, and high-growth technology platforms.<br>
-
+I'm a product leader and growth advisor with experience spanning entrepreneurship, Fortune 100 companies, and high-growth technology platforms.
+<br>
 I currently serve as Director at **[Public](https://public.com)**, where I focus on product-led growth, organic user acquisition, AI Search, and web attribution.
 
 Previously, I led organic growth and technical SEO at **[Course Hero](https://www.coursehero.com)**, helping scale one of the world's largest edtech platforms to more than **1 billion annual visits** while managing **100+ million indexed pages**. Earlier, I led global digital experience and migration initiatives at **[Cummins](https://www.cummins.com)** and founded **[Innovations](https://infiniteinnovations.net)**, a digital marketing agency that served **150+ businesses** worldwide.
